@@ -15,7 +15,7 @@ pip install python-bidi
 ## How to Use it then?
 just launch it using CMD or Terminal, a simple line of
 ```python
-python WordCloudMaker.py
+python CloudWordMaker.py
 ```
 does the job! follow the instructions there and your cloud of words is ready in no time!
 Also fellow Persians, use the Holy FilterShekan!
