@@ -13,7 +13,7 @@ pip install git+https://github.com/mpcabd/python-arabic-reshaper
 pip install python-bidi
 ```
 ## How to Use it then?
-just a simple line of:
+just launch it using CMD or Terminal, a simple line of
 ```python
 python WordCloudMaker.py
 ```
